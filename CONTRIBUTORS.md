@@ -14,3 +14,4 @@
 | Riya Nair | An e-commerce store for handmade crafts |
 | Aditya Joshi | A workout tracker app |
 | Meera Pillai | A blog platform for college students |
+| Pratyush Mishra | Startup Autopsy — where startup ideas go to get brutally honest VC feedback |
