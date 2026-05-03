@@ -15,3 +15,4 @@
 | Aditya Joshi | A workout tracker app |
 | Meera Pillai | A blog platform for college students |
 | Pratyush Mishra | Startup Autopsy — where startup ideas go to get brutally honest VC feedback |
+| Durgesh Gupta | A data analytics dashboard to analyze sales trends and generate insights using Python and Power BI |
