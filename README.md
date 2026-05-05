@@ -380,3 +380,8 @@ Once the PR is merged your name is permanently live in the original repo. That i
 ---
 
 > **Your GitHub profile is your resume. Every commit is proof that you build. Start pushing.** 🐙
+
+
+---
+
+> ⭐ **If this helped you, drop a star on the repo — it helps more beginners find it!**
