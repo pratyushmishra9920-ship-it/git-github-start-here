@@ -379,6 +379,21 @@ Once the PR is merged your name is permanently live in the original repo. That i
 
 ---
 
+## ❓ FAQ
+
+**Q: What should I write in "What I Want to Build"?**
+A: Write any project idea you have — an app, website, tool, anything. Even if it's just an idea, write it down.
+
+**Q: Do I need to know coding to contribute?**
+A: No! Just follow the steps in this guide. That's exactly what it's for.
+
+**Q: How long does it take to make my first contribution?**
+A: If you follow this guide step by step, around 15-20 minutes.
+
+
+---
+
+
 > **Your GitHub profile is your resume. Every commit is proof that you build. Start pushing.** 🐙
 
 
