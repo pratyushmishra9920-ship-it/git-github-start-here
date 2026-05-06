@@ -384,4 +384,4 @@ Once the PR is merged your name is permanently live in the original repo. That i
 
 ---
 
-> ⭐ **If this helped you, drop a star on the repo — it helps more beginners find it!**
+> ⭐ **Star this repo if it helped you. That's how more beginners find it.**
